@@ -1,1 +1,1 @@
-console.log("Lecture-Alert - version M1");
+console.log("Lecture Alert - version M1");
